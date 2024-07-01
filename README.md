@@ -2,7 +2,7 @@
 
 I am a skilled front-end developer with a passion for crafting visually appealing and user-friendly web applications. I leverage my expertise in JavaScript, React, CSS, and HTML to deliver dynamic and responsive interfaces.
 
-###**Key Skills:**
+###Key Skills:
 
 **Front-End Technologies:** React, JavaScript (ES6+), HTML5, CSS3
 **UI/UX Frameworks:** Tailwind CSS, Bootstrap, Material UI
@@ -10,7 +10,7 @@ I am a skilled front-end developer with a passion for crafting visually appealin
 **Back-End Integration:** Express.js, MongoDB
 **Responsive Design:** Ensuring seamless experience across devices
 
-###**Focus:***
+###Focus:
 
 Creating intuitive and user-centric interfaces that meet both user needs and business goals.
 Implementing secure authentication and data protection protocols.
