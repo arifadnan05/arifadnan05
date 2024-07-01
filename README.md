@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://i.ibb.co/GtsfW32/github-header-image-1.png" />
 </p>
-
+## 🚀 About Me
 I am a skilled front-end developer with a passion for crafting visually appealing and user-friendly web applications. I leverage my expertise in JavaScript, React, CSS, and HTML to deliver dynamic and responsive interfaces.
 
 ### Key Skills:
