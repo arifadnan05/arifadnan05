@@ -12,7 +12,7 @@ I am a skilled front-end developer with a passion for crafting visually appealin
 - **Front-End Technologies:** React, JavaScript (ES6+), HTML5, CSS3 <br />
 - **UI/UX Frameworks:** Tailwind CSS, Bootstrap <br />
 - **Authentication:** Firebase <br />
-- **Back-End Integration:** Node.js Express.js, MongoDB <br />
+- **Back-End Integration:** Node.js, Express.js, MongoDB <br />
 - **Responsive Design:** Ensuring seamless experience across devices
 
 ### Focus:
