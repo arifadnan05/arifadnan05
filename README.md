@@ -5,7 +5,10 @@
 
 ## 🚀 About Me
  
-I am a skilled front-end developer with a passion for crafting visually appealing and user-friendly web applications. I leverage my expertise in JavaScript, React, CSS, and HTML to deliver dynamic and responsive interfaces.
+I’m a passionate web developer, dedicated to creating innovative solutions with a strong focus on quality and efficiency. I’m a fast learner who
+adapts quickly to new technologies and thrives in dynamic environments. With excellent time management skills and a commitment to continuous
+improvement, I approach challenges with a problem-solving mindset, ensuring timely delivery of impactful results while staying updated with the
+latest trends in web development.
 
 ### Key Skills:
 
