@@ -1,6 +1,6 @@
 <!-- ![](https://i.ibb.co/GtsfW32/github-header-image-1.png) -->
 <p align="center">
-  <img src="https://i.ibb.co/GtsfW32/github-header-image-1.png" />
+  <img src="[https://i.ibb.co/GtsfW32/github-header-image-1.png](https://media.licdn.com/dms/image/v2/D5616AQFYi8hhQ8OfgA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731348135747?e=1738195200&v=beta&t=Kb_Y1WZq_zrGEEXzq5ovM2NlMGnNXaySqJmFg8W_5y0)" />
 </p>
 
 ## 🚀 About Me
