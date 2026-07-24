@@ -5,7 +5,7 @@
 <h1 align="center">Arif Adnan</h1>
 
 <p align="center">
-  <b>Full-Stack Engineer</b> · React · Next.js · TypeScript · React Native · Node.js
+  <b>Full-Stack Developer</b> · React · Next.js · TypeScript · React Native · Node.js
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ## About
 
-Software engineer with **2+ years of professional experience** building and shipping production web and mobile applications.
+Software developer with **2+ years of professional experience** building and shipping production web and mobile applications.
 
 I work across the stack — **React, Next.js and TypeScript** on the front end, **React Native** for cross-platform mobile, and **Node.js with Prisma over PostgreSQL** (Supabase, Neon) or **MongoDB** on the back end. I write tests as part of the work, not after it: **Jest** for units, **Playwright** and **Cypress** for end-to-end.
 
