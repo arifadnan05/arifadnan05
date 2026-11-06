@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Arif Adnan, Full-Stack Developer and Technical Project Manager">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#111A33"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#818CF8"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.3" r="0.55">
+      <stop offset="0" stop-color="#6366F1" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <style>
+      .f { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Inter, Helvetica, Arial, sans-serif; }
+      .m { font-family: 'JetBrains Mono', 'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, monospace; }
+      .cursor { animation: blink 1.1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect width="1280" height="320" fill="url(#grid)"/>
+  <rect width="1280" height="320" fill="url(#glow)"/>
+
+  <!-- left: identity -->
+  <rect x="80" y="86" width="4" height="194" rx="2" fill="url(#accent)"/>
+  <text x="108" y="118" class="m" font-size="16" fill="#7DD3FC" letter-spacing="3">HELLO, I'M</text>
+  <text x="106" y="176" class="f" font-size="56" font-weight="700" fill="#F8FAFC">Arif Adnan</text>
+  <text x="108" y="212" class="f" font-size="23" font-weight="500" fill="#CBD5E1">Full-Stack Developer &amp; Technical Project Manager</text>
+  <text x="108" y="244" class="m" font-size="15" fill="#7DD3FC">› Exploring AI automation for scalable web solutions</text>
+  <text x="108" y="272" class="m" font-size="13" fill="#64748B">Web &amp; Mobile  ·  Rangpur, Bangladesh</text>
+
+  <!-- right: code card -->
+  <g transform="translate(740 40)">
+    <rect width="460" height="240" rx="14" fill="#0F172A" stroke="#1E293B"/>
+    <circle cx="24" cy="22" r="5.5" fill="#F87171"/>
+    <circle cx="44" cy="22" r="5.5" fill="#FBBF24"/>
+    <circle cx="64" cy="22" r="5.5" fill="#34D399"/>
+    <text x="440" y="27" text-anchor="end" class="m" font-size="12" fill="#475569">arif.ts</text>
+    <line x1="0" y1="44" x2="460" y2="44" stroke="#1E293B"/>
+    <g class="m" font-size="15">
+      <text x="24" y="76"><tspan fill="#C084FC">const</tspan><tspan fill="#E2E8F0"> arif </tspan><tspan fill="#94A3B8">= {</tspan></text>
+      <text x="48" y="102"><tspan fill="#7DD3FC">frontend</tspan><tspan fill="#94A3B8">: [</tspan><tspan fill="#86EFAC">"React"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#86EFAC">"Next.js"</tspan><tspan fill="#94A3B8">],</tspan></text>
+      <text x="48" y="126"><tspan fill="#7DD3FC">mobile</tspan><tspan fill="#94A3B8">: [</tspan><tspan fill="#86EFAC">"React Native"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#86EFAC">"Expo"</tspan><tspan fill="#94A3B8">],</tspan></text>
+      <text x="48" y="150"><tspan fill="#7DD3FC">backend</tspan><tspan fill="#94A3B8">: [</tspan><tspan fill="#86EFAC">"Node.js"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#86EFAC">"Express"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#86EFAC">"Prisma"</tspan><tspan fill="#94A3B8">],</tspan></text>
+      <text x="48" y="174"><tspan fill="#7DD3FC">database</tspan><tspan fill="#94A3B8">: [</tspan><tspan fill="#86EFAC">"PostgreSQL"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#86EFAC">"MongoDB"</tspan><tspan fill="#94A3B8">],</tspan></text>
+      <text x="48" y="198"><tspan fill="#7DD3FC">automation</tspan><tspan fill="#94A3B8">: [</tspan><tspan fill="#86EFAC">"n8n"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#86EFAC">"AI agents"</tspan><tspan fill="#94A3B8">],</tspan></text>
+      <text x="24" y="224"><tspan fill="#94A3B8">};</tspan><tspan class="cursor" fill="#38BDF8"> ▍</tspan></text>
+    </g>
+  </g>
+
+  <rect y="316" width="1280" height="4" fill="url(#accent)"/>
+</svg>
